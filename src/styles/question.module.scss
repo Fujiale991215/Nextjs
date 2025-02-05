@@ -1,0 +1,17 @@
+.component-wrapper {
+    width: 100%;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.submit-button {
+    text-align: center;
+    margin-top: 16px;
+
+    input {
+        color: #fff;
+        background-color: #1677ff;
+        border: 1px solid transparent;
+        padding: 4px 15px;
+        border-radius: 3px;
+    }
+}
